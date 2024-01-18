@@ -2,7 +2,6 @@
 A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; gap: 16px">
-<img width="200px" src="./assets/sample_1.png">
 <img width="200px" src="./assets/sample_2.png">
 <img width="200px" src="./assets/sample_3.png">
 <img width="200px" src="./assets/sample_4.png">
